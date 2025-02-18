@@ -1,0 +1,8 @@
+diamonds.csv
+https://github.com/tidyverse/ggplot2/blob/main/data-raw/diamonds.csv
+
+heart.csv
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+diabetes_prediction_dataset.csv
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
